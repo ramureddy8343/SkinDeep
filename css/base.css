@@ -1,0 +1,7 @@
+/*loading css based on priority*/
+
+@import url("bootstrap/bootstrap.min.css");
+@import url("bootstrap/bootstrap-theme.min.css");
+@import url("main.css");
+@import url("style.css");
+@import url("responsive.css");
